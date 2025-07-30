@@ -1,0 +1,4 @@
+train: ./data/custom dataset/train/images
+val: ./data/custom dataset/train/images
+nc: 2
+names: ['mask',no mask']
